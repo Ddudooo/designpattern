@@ -1,4 +1,5 @@
 rootProject.name = 'designpattern'
 include 'creation'
 include 'creation:AbstractFactoryPattern'
-
+include 'structural'
+include 'structural:AdapterPattern'
